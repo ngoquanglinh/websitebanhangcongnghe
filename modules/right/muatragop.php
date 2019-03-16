@@ -1,0 +1,1 @@
+<h4 style="text-align:center; color:#800000">Chính sách mua trả góp</h4><hr/>

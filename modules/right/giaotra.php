@@ -1,0 +1,1 @@
+<h4 style="text-align:center; color:#800000">Giao hàng thanh toán</h4><hr/>
